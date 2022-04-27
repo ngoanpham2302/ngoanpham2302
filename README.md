@@ -1,7 +1,9 @@
 ### Hi there 👋
-![Ngoan Pham's github stats](https://github-readme-stats.vercel.app/api?username=ngoanpham2302&show_icons=true&theme=cobalt)
+<!-- ![Ngoan Pham's github stats](https://github-readme-stats.vercel.app/api?username=ngoanpham2302&show_icons=true&theme=cobalt) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoanpham2302&layout=compact&theme=cobalt)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngoanpham2302&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoanpham2302&layout=compact&theme=radical)
 
 
 <!--
