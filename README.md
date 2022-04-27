@@ -1,7 +1,7 @@
 ### Hi there 👋
-![NgoanPham's github stats](https://github-readme-stats.vercel.app/api?username=ngoanpham2302&show_icons=true&theme=radical)
+![Ngoan Pham's github stats](https://github-readme-stats.vercel.app/api?username=ngoanpham2302&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoanpham2302&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoanpham2302&layout=compact&theme=cobalt)
 
 
 <!--
