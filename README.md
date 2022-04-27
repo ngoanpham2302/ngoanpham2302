@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ngoanpham2302's github stats](https://github-readme-stats.vercel.app/api?username=ngoanpham2302&show_icons=true&theme=merko)](https://github.com/ngoanpham2302/github-readme-stats)
+[![ngoanpham2302's github stats](https://github-readme-stats.vercel.app/api?username=ngoanpham2302&show_icons=true&theme=synthwave)](https://github.com/ngoanpham2302/github-readme-stats)
 
 <!--
 **ngoanpham2302/ngoanpham2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
